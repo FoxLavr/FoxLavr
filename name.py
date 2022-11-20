@@ -1,2 +1,1 @@
-
-a=input("how old are you?")
+print("You are a wonderful teacher!")
